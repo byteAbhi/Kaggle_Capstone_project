@@ -103,4 +103,4 @@ status = save_to_database(ticket_json) # Save to CSV
 | :--- | :--- |
 | **Author** | Abhishek Mukhiya |
 | **Contact** | abhishekmukhiya9822@gmail.com |
-| **Repository** | [Link to this GitHub Repository] |
+| **Repository** | https://github.com/byteAbhi/Kaggle_Capstone_project.git |
